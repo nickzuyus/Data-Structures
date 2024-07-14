@@ -16,3 +16,16 @@ Throughout this project, I gained a deeper understanding of how blockchain techn
 ### Project 4
 In Project 4 for my CS 2413 Data Structures course, I implemented a blockchain network simulation in C++. The project involved classes for transactions, blocks, blockchains, and a network of nodes. The transaction class managed transaction details and participant balances, while the block class handled transactions within blocks and included search capabilities. The blockChain class managed a linked list of blocks, dynamically creating new blocks as needed. The blockNetwork class orchestrated interactions between nodes, facilitating transaction insertion and blockchain exchange. Through this project, I deepened my understanding of blockchain principles, honed skills in data structure management, and practiced effective object-oriented programming techniques in a simulated decentralized environment.
 
+### Project 5
+In Project 5 for my CS 2413 Data Structures course, I developed a program in C++ to convert a flowchart representation into executable code. The project utilized classes such as Node to encapsulate details about nodes in the flowchart, including node number, type (e.g., START, END, IF, BLOCK), and optional text content. The convertFlowChart function processed the flowchart using an adjacency list, interpreting each node type to generate corresponding code segments. This project enhanced my understanding of graph traversal algorithms and reinforced skills in handling data structures and algorithmic logic within a programmatic context.
+
+### Project 6
+In Project 6 for my CS 2413 Data Structures course, I implemented a program in C++ that utilizes maps and unordered maps to manage data read from a file. The project involved creating a hash function hashStr to determine positions within these data structures based on string inputs, ensuring efficient storage and retrieval. The main function read operations from a specified file, executing commands to insert or remove entries dynamically into both a map and an unordered_map. Each data structure was displayed sequentially using custom display functions, showcasing the stored data organized by their hash positions. This project enhanced my proficiency in utilizing associative containers and reinforced concepts related to hashing and efficient data retrieval in C++ programming contexts.
+
+
+
+
+
+
+
+
